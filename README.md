@@ -3,6 +3,7 @@
 
 #### :bulb: 2011-2022年Netflix上架的電視劇和電影比較分析。
 #### :bulb: 資料來源: Kaggle
+#### :link: [觀看儀錶板](https://public.tableau.com/views/Netfliex_17061778908350/2?:language=zh-TW&:display_count=n&:origin=viz_share_link)
 
 
 ### :book: What I want to know...?
@@ -15,3 +16,8 @@
 * **MS SQL**
 * **Excel**
 * **Tableau**
+
+### :pencil2: Result
+
+![Netflix](https://github.com/Sherlin1996/Netflix-Data-Analysis/assets/106952827/455fb5f4-4d20-48ec-99cb-850b3685cc6f)
+
